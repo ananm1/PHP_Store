@@ -1,4 +1,5 @@
 <?php
+echo "<center> Anan's Demo Store </center>";
 /**
  * Magento
  *
